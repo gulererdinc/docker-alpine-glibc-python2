@@ -1,3 +1,6 @@
+[![](https://images.microbadger.com/badges/version/banzzaj/alpine-glibc-python2.svg)](https://microbadger.com/images/banzzaj/alpine-glibc-python2 "Get your own version badge on microbadger.com")
+
+
 Alpine GNU C library (glibc) + Python 2.7 Docker image
 ======================================================
 
@@ -7,6 +10,10 @@ This image includes some quirks to make [glibc](https://www.gnu.org/software/lib
 side with musl libc (default in Apline Linux). glibc packages for Alpine Linux are prepared by
 [Andy Shinn](https://github.com/andyshinn) and the releases are published in
 [andyshinn/alpine-pkg-glibc](https://github.com/andyshinn/alpine-pkg-glibc) github repo.
+
+Download size of this image is only:
+
+[![](https://images.microbadger.com/badges/image/banzzaj/alpine-glibc-python2.svg)](https://microbadger.com/images/banzzaj/alpine-glibc-python2 "Get your own image badge on microbadger.com")
 
 
 Usage Example
